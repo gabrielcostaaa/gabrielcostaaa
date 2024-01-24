@@ -1,5 +1,5 @@
 # 💫 About Me:
-📘Graduando em Ciências da Computação na UFFS<br>👨‍💻 Buscando aprimorar habilidades em algoritmos de aprendizado de máquina e aplicar conhecimentos em projetos práticos.
+📘👨‍💻 Graduando em Ciências da Computação na UFFS<br>
 
 
 ## 🌐 Socials:
