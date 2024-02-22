@@ -3,6 +3,7 @@
 <br><br>
 - 🎂 Tenho 20 anos
 - 📍 Natural de Porto Alegre/RS, atualmente vivendo em Chapecó/SC
+- 🎓 Faço Ciência da Computação na UFFS
 - 🐶 Sou fissurado por programação e por doguinhos!
 - 💻 Criador de bugs nato!
 <br><br>
