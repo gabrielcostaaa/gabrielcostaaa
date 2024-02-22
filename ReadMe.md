@@ -19,5 +19,3 @@ Quanto mais aprendo, mais percebo o quanto ainda há para aprender. A jornada ve
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-          
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielcostaaa&layout=compact&langs_count=8&theme=algolia"/>
