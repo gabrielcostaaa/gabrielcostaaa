@@ -1,7 +1,7 @@
 # E aí, Devs! 👨‍💻 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/49988025062) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/costa.gabriel_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-santos-costa-5b25ab247) [![Youtube](https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gabrielcostaaa)
 <br><br>
-- 🎂 Tenho 20 anos
+- 🎂 Tenho 21 anos
 - 📍 Natural de Porto Alegre/RS, atualmente vivendo em Chapecó/SC
 - 🎓 Faço Ciência da Computação na UFFS
 - 🐶 Sou fissurado por programação e por doguinhos!
