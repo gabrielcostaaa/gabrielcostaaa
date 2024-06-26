@@ -4,7 +4,6 @@
 - 🎂 Tenho 21 anos
 - 📍 Natural de Porto Alegre/RS, atualmente vivendo em Chapecó/SC
 - 🎓 Faço Ciência da Computação na UFFS
-- 🐶 Sou fissurado por programação e por doguinhos!
 - 💻 Criador de bugs nato!
 <br><br>
   ![FriendsChandlerBingGIF](https://github.com/gabrielcostaaa/gabrielcostaaa/assets/129251793/d62470e8-eab0-4829-b49c-34c10be413c7)
